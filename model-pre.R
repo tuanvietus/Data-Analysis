@@ -1,3 +1,5 @@
+# FIRST SCRIPT TO EXECUTE
+
 #Precheck passengers
 #180 is in minutes = 3 hours
 xbar <- 1:180
